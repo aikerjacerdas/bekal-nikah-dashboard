@@ -1,0 +1,42 @@
+BEKAL NIKAH | DASHBOARD OFFLINE TERINTEGRASI
+Versi paket: 2.1
+
+MULAI
+1. Ekstrak seluruh isi ZIP ke satu folder.
+2. Pertahankan struktur folder main dan bonus. Jangan memindahkan index.html.
+3. Buka index.html menggunakan Chrome atau Edge.
+4. Gunakan menu di sisi kiri. Pada HP, tekan tombol menu.
+5. Isian tersimpan otomatis pada browser dan perangkat yang sedang digunakan.
+
+PEMBARUAN VERSI 2.1
+- 80 pertanyaan penting dalam delapan kategori.
+- 30 pertanyaan refleksi dalam lima kelompok.
+- Delapan instrumen kerja disajikan sebagai formulir digital.
+- 50 tabel sumber dari dokumen Delapan Instrumen Kerja direplikasi menjadi 349 baris isian.
+- Bagian instrumen yang tidak memiliki tabel disediakan ruang catatan.
+- Dokumen PDF asli tetap disediakan sebagai acuan.
+- Empat dokumen utama dan sepuluh bonus tetap tersedia di menu Dokumen dan Bonus.
+- Backup dan pemulihan data JSON tersedia.
+
+ISI PAKET
+- index.html: aplikasi dashboard.
+- content.json: materi dan struktur formulir.
+- main/: empat dokumen utama PDF.
+- bonus/: sepuluh dokumen bonus PDF, XLSX, dan DOCX.
+
+PENYIMPANAN DAN PRIVASI
+- Aplikasi berjalan lokal dan tidak membutuhkan internet untuk fitur utama.
+- Data tersimpan pada browser/perangkat lokal. Tidak ada sinkronisasi otomatis antara laptop dan HP.
+- Untuk memindahkan data, buka menu Backup Data, unduh file JSON, lalu pulihkan pada perangkat lain.
+- File backup dapat memuat informasi keuangan, kesehatan, dan data pribadi. Simpan secara aman dan jangan membagikannya kepada pihak yang tidak berkepentingan.
+- Hindari menghapus data browser sebelum membuat backup.
+
+DOKUMEN PENDUKUNG
+- PDF dibuka melalui browser atau aplikasi pembaca PDF.
+- XLSX dibuka menggunakan Microsoft Excel atau aplikasi spreadsheet yang kompatibel.
+- DOCX dibuka menggunakan Microsoft Word atau aplikasi pengolah dokumen yang kompatibel.
+
+BATASAN
+- Formulir digital instrumen mengikuti struktur tabel pada dokumen sumber. Isian tidak mengubah dokumen PDF asli.
+- Beberapa bonus tetap menggunakan file PDF, Excel, atau Word masing-masing.
+- Uji penggunaan pada perangkat dan browser pengguna tetap diperlukan sebelum distribusi komersial.
