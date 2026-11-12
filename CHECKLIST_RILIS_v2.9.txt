@@ -1,0 +1,18 @@
+CHECKLIST RILIS BEKAL NIKAH v2.9
+
+1. Ekstrak paket ZIP ke folder baru.
+2. Buka index.html dan periksa seluruh menu.
+3. Uji autosave dan pemulihan backup lokal.
+4. Uji pertukaran dua arah: ekspor, gabungkan, ekspor ulang, gabungkan kembali.
+5. Pastikan 30 refleksi dari kedua peserta tampil.
+6. Pastikan 80 jawaban dari kedua peserta tampil.
+7. Buka Laporan Hasil Diskusi, tekan Cetak / Simpan PDF.
+8. Pada dialog cetak, pilih kertas A4 dan simpan sebagai PDF.
+9. Periksa halaman awal, tabel/daftar, teks panjang, dan bagian akhir PDF.
+10. Setelah lolos, unggah folder versi ini ke GitHub/Cloudflare Pages.
+
+PENTING:
+- Jangan menimpa versi produksi sebelum pengujian selesai.
+- Simpan ZIP versi sebelumnya sebagai cadangan.
+- Repo GitHub Private tidak membuat file pada website Pages menjadi privat.
+- Dokumen bonus yang berada di folder publik website dapat diakses oleh orang yang mengetahui URL langsung. Untuk distribusi berbayar, pertimbangkan memisahkan file bonus dari folder publik dan mengirimkannya secara terpisah setelah verifikasi pembayaran.

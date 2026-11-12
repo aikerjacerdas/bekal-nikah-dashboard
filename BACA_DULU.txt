@@ -40,3 +40,15 @@ BATASAN
 - Formulir digital instrumen mengikuti struktur tabel pada dokumen sumber. Isian tidak mengubah dokumen PDF asli.
 - Beberapa bonus tetap menggunakan file PDF, Excel, atau Word masing-masing.
 - Uji penggunaan pada perangkat dan browser pengguna tetap diperlukan sebelum distribusi komersial.
+
+
+CATATAN VERSI 2.5
+Atur identitas peserta dan kode ruang diskusi melalui menu Backup Data sebelum mengisi refleksi. Calon pasangan menggunakan kode ruang yang sama. Jangan menghapus data browser versi sebelumnya. Buat backup JSON sebelum melakukan pembaruan. Fitur penggabungan file dua perangkat belum tersedia pada versi 2.5.
+
+V2.6: autosave, dua cadangan lokal otomatis melalui IndexedDB, pengingat backup JSON, dan pemulihan cadangan lokal.
+
+V2.7: pertukaran file jawaban dan penggabungan data antardua perangkat menggunakan kode ruang diskusi. Tidak memerlukan database cloud.
+
+V2.8: perbaikan penggabungan 30 refleksi diri, penyederhanaan menu Pengaturan dan Pertukaran Data, serta laporan akhir yang memuat refleksi dan jawaban kedua peserta.
+
+V2.9: penyempurnaan tata letak laporan untuk cetak A4 dan simpan PDF. Tombol cetak akan membuka seluruh bagian laporan secara otomatis.

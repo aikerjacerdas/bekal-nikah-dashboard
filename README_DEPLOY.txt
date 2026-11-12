@@ -30,3 +30,13 @@ DATA DAN PRIVASI
 
 CATATAN PENGGUNAAN
 Dashboard ini merupakan sarana refleksi dan percakapan calon pasangan. Dashboard bukan tes kecocokan, penilaian kelayakan menikah, nasihat medis, atau dokumen hukum yang mengikat.
+
+
+PEMBARUAN VERSI 2.5
+- Menambahkan identitas peserta: calon pasangan pria atau wanita.
+- Menambahkan nama peserta dan kode ruang diskusi.
+- Memisahkan refleksi diri berdasarkan identitas peserta.
+- Migrasi refleksi lama dilakukan saat identitas peserta pertama kali disimpan. Jawaban lama ditempatkan pada identitas yang dipilih.
+- Struktur data jawaban 80 pertanyaan, refleksi diskusi, instrumen, dan kesepakatan tetap dipertahankan.
+- Backup JSON menandai versi 2.5.
+- Fitur penggabungan file dari dua perangkat belum diaktifkan pada versi ini dan menjadi tahap pengembangan berikutnya.
