@@ -1,4 +1,4 @@
-CHECKLIST RILIS BEKAL NIKAH v2.9
+CHECKLIST RILIS BEKAL NIKAH v2.10
 
 1. Ekstrak paket ZIP ke folder baru.
 2. Buka index.html dan periksa seluruh menu.
@@ -16,3 +16,9 @@ PENTING:
 - Simpan ZIP versi sebelumnya sebagai cadangan.
 - Repo GitHub Private tidak membuat file pada website Pages menjadi privat.
 - Dokumen bonus yang berada di folder publik website dapat diakses oleh orang yang mengetahui URL langsung. Untuk distribusi berbayar, pertimbangkan memisahkan file bonus dari folder publik dan mengirimkannya secara terpisah setelah verifikasi pembayaran.
+
+
+Tambahan v2.10:
+- Pastikan tombol Reset seluruh data perangkat ini tampil pada menu Backup Data.
+- Uji reset hanya setelah mengunduh Backup JSON jika data lama masih diperlukan.
+- Pastikan seluruh aset diminta untuk revalidasi melalui header Cache-Control no-cache.
